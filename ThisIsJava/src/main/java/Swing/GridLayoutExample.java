@@ -30,7 +30,7 @@ public class GridLayoutExample extends JFrame{
 	}
 	
 	// 버튼 배열 생성
-	private JButton[][] getBtn() {
+	public JButton[][] getBtn() {
 
 		if(btn == null) {
 			btn = new JButton[2][3];
