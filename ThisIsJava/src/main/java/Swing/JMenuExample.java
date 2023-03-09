@@ -16,7 +16,6 @@ public class JMenuExample extends JFrame{
 	private JMenuItem menuItemNewFile, menuItemNewFolder;
 	private JMenuItem menuItemOpen, menuItemSave, menuItemExit;
 	
-	
 	// 메인 윈도우 설정
 	public JMenuExample() {
 		this.setTitle("JMenuExample");
