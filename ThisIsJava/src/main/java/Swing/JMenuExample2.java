@@ -107,5 +107,4 @@ public class JMenuExample2 extends JFrame{
 			}
 		});
 	}
-
 }
