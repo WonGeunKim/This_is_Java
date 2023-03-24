@@ -105,8 +105,6 @@ public class JFileChooseExample extends JFrame{
 		return btnFileSave;
 	}
 
-
-
 	public static void main(String[] args) {
 		
 		SwingUtilities.invokeLater(new Runnable() {
