@@ -26,7 +26,6 @@ public class JFileChooseExample extends JFrame{
 		this.setSize(150, 100);
 	}
 	
-	
 	// 열기 버튼 생성
 	public JButton getBtnFileOpne() {
 		
@@ -66,7 +65,6 @@ public class JFileChooseExample extends JFrame{
 		
 		return btnFileOpne;
 	}
-
 
 	// 저장 버튼 생성
 	public JButton getBtnFileSave() {
