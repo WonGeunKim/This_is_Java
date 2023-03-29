@@ -48,7 +48,6 @@ public class JColorChooserExample extends JFrame{
 		return btnColor;
 	}
 
-
 	public static void main(String[] args) {
 
 		SwingUtilities.invokeLater(new Runnable() {
